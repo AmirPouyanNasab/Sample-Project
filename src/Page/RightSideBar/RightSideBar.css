@@ -1,0 +1,35 @@
+.rightSide{
+    position: absolute;
+    bottom: -50px;
+    left: 810px !important;
+    width: 1070px !important;
+    height: 970px !important;
+    background-color: white;
+    border-radius: 2rem;
+    display: block;
+}
+.cardsSettingButton{
+    position: absolute;
+    ccolor: #6d6d6d !important;
+    margin-top: 8rem;
+    margin-left: 126rem;
+    font-size: 30px !important;
+}
+.cardHeadTitle{
+    position: absolute;
+    color: #6d6d6d ;
+    font-size: 1.4rem !important;
+    font-weight: bolder !important;
+    margin-top: 2.7rem !important;
+    margin-left: 2rem !important;
+}
+.cardContainer{
+    margin-top: 6.5rem !important;
+}
+.cards{
+    border-radius: 1rem !important;
+    margin: 0.7rem 2rem !important;
+}
+.cardImage{
+    border-radius: 1rem !important;
+}

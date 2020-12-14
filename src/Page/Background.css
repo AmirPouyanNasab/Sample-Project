@@ -1,0 +1,10 @@
+body{
+    margin: 0 !important;
+}
+.background{
+    width: 100%;
+    height: 1000px;
+    background-color: #000000;
+    border-radius: 2rem;
+    overflow: hidden;
+}

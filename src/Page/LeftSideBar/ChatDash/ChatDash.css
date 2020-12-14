@@ -1,0 +1,77 @@
+.ChatDash{
+    position: relative;
+    top: -1300px;
+    left: 61px;
+    width: 800px;
+    height: 1000px;
+}
+.searchIcon{
+    position: absolute;
+    color: #6d6d6d !important;
+    margin:3.3rem 9rem;
+    font-size: 2.4rem !important;
+    display: block;
+}
+.search{
+    width: 450px;
+    height: 65px;
+    background-color: #161616;
+    margin:2.2rem 8rem !important;
+    border-radius: 2rem;
+    outline: none;
+    padding-left: 3rem;
+    color: white;
+    border: none;
+    display: block;
+}
+.searchButton{
+    display: block;
+    color: #6d6d6d !important;
+    left: 37rem;
+    bottom: 6.5rem;
+    font-size: 0.5rem;
+    width: 70px;
+    height: 70px;
+    border-radius: 50% !important;
+    background-color: #161616 !important;
+}
+.chats{
+    top: -10rem !important;
+    width: 530px !important;
+    height: 150px;
+    margin:1.5rem auto !important;
+    background-color: #161616;
+    border-radius: 1rem;
+}
+.chatImg{
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10rem;
+    margin-left: 2rem;
+}
+.chatName{
+    color: white !important;
+    font-size: 1rem;
+    width: 60px;
+    height: 50px;
+    display: inline;
+    margin-left: 1rem !important;
+    margin-bottom: 10rem !important;
+    font-weight: bold !important;
+}
+.chatTxt{
+    margin-top: 5rem !important;
+    margin-left: -3.5rem !important;
+    opacity: 0.7;
+    display: block;
+    color: white;
+    width: 300px;
+    height: 200px;
+    text-align: left;
+}
+.threeDot{
+    position: absolute;
+    left: 30rem;
+    top: 2rem;
+    color: #6d6d6d;
+}

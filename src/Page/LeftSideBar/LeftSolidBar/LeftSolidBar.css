@@ -1,0 +1,28 @@
+.LeftSolidBar{
+    position: relative;
+    width: 120px;
+    height: 1300px;
+    border-bottom-left-radius: 2rem;
+    border-top-left-radius: 2rem;
+    display: block;
+    background-color: #161616;
+    color: white;
+}
+.leftMenu{
+    position: static;
+    margin:auto !important;
+    margin-top: 3.2rem !important;
+    color: #6d6d6d;
+}
+.leftMenu:hover{
+    color: #ef677d;
+}
+.Notification::before{
+    position: absolute;
+    content:"";
+    width: 10px;
+    height: 10px;
+    margin-left: 2.2rem;
+    border-radius: 5px;
+    background-color: #ef677d;
+}
